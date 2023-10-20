@@ -20,3 +20,6 @@ Once a file has been added and committed it is ready to be pushed, once the push
 
 Git Branch:
 A branch is a Linear sequence of commits that are able to be updated once work is done on a branch it can be merged to master or deleted
+
+Git Checkout:
+Git checkout allows you to make whatever node you are working on to be the head of the branch but this wont work if the files on the node have been modified 
