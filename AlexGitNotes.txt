@@ -1,0 +1,12 @@
+Alex Byrne Git assinment 1:
+
+Git init:
+It will create a new repository in the folder where git bash was ran
+
+Git add:
+Adds a file to the staging awaiting a commit
+
+Git status: 
+gives the currents statues of the current branch being worked on
+
+
