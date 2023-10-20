@@ -9,4 +9,5 @@ Adds a file to the staging awaiting a commit
 Git status: 
 gives the currents statues of the current branch being worked on
 
-
+Git commit:
+The commit command prepares a file to be pushed into the repository
