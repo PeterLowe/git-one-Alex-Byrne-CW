@@ -11,3 +11,6 @@ gives the currents statues of the current branch being worked on
 
 Git commit:
 The commit command prepares a file to be pushed into the repository
+
+Git Remote: 
+Creates a link between your computer and the repository on git hub 
