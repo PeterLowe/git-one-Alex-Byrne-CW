@@ -23,3 +23,7 @@ A branch is a Linear sequence of commits that are able to be updated once work i
 
 Git Checkout:
 Git checkout allows you to make whatever node you are working on to be the head of the branch but this wont work if the files on the node have been modified 
+
+Git Merge:
+Git merge allows you to merge the head of whatever branch you are working on into master, if there will be a problem with this command git will give you a warning.
+
