@@ -17,3 +17,6 @@ Creates a link between your computer and the repository on git hub
 
 Git push:
 Once a file has been added and committed it is ready to be pushed, once the push command is entered the committed files will be sent to the current branch of the repository 
+
+Git Branch:
+A branch is a Linear sequence of commits that are able to be updated once work is done on a branch it can be merged to master or deleted
