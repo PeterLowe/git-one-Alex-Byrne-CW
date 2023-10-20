@@ -27,3 +27,6 @@ Git checkout allows you to make whatever node you are working on to be the head 
 Git Merge:
 Git merge allows you to merge the head of whatever branch you are working on into master, if there will be a problem with this command git will give you a warning.
 
+Git log:
+Git log allows you to see the full history of your commits, which can make seeing what you have and have not committed very easy.
+
